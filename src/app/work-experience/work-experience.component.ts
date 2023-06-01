@@ -24,7 +24,7 @@ export class WorkExperienceComponent implements OnInit {
       description: [
         'Involved in Student Activity',
         'Responsible in Developing ERP Site',
-        'Responsible in Grading recorsds'
+        
       ],
     },
     {
